@@ -8,7 +8,7 @@
 
 | Field | Details |
 |---|---|
-| **Author** | [Your Full Name] |
+| **Author** | [Luis González] |
 | **Profile** | Engineer and Master's Degree in Information Security |
 | **Date** | 09/26/2026 |
 | **Document version** | 1.0 |
